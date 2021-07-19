@@ -1,6 +1,6 @@
 - [ターミナルを使いこなす為の基本的なショートカットキーやコマンド一覧](https://magidropack.hatenablog.com/entry/2018/11/04/011715) #linux#terminal
-- [【Jest】`mockClear()`, `mockReset()`, `mockRestore`の違い](https://github.com/facebook/jest/issues/5143#issuecomment-378417247) #jest
-- [【TypeScript】既存のオブジェクトからkey, valuesの型を作る](https://stackoverflow.com/questions/53662208/types-from-both-keys-and-values-of-object-in-typescript) #typescript
+- [`mockClear()`, `mockReset()`, `mockRestore`の違い](https://github.com/facebook/jest/issues/5143#issuecomment-378417247) #jest
+- [既存のオブジェクトからkey, valuesの型を作る](https://stackoverflow.com/questions/53662208/types-from-both-keys-and-values-of-object-in-typescript) #typescript
 
 # About
 
