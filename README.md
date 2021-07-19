@@ -1,3 +1,4 @@
+- [【TypeScript】既存のオブジェクトからkey, valuesの型を作る](https://stackoverflow.com/questions/53662208/types-from-both-keys-and-values-of-object-in-typescript) #typescript
 
 # About
 
