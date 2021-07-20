@@ -1,3 +1,4 @@
+- [劇薬の The New CSS Reset](https://kojika17.com/2021/07/css-for-strong-poison.html) #css
 - [Angular CDK を使用して全画面ローディングを表示する](https://noxi515.hateblo.jp/entry/2018/12/26/193952) #angular#angular-cdk#angular-material
 - [Windowsの改行コードCRLFを一括でUnixのLFに置き換える](https://infltech.com/articles/NWnUKJ) #windows#改行コード
 - [ターミナルを使いこなす為の基本的なショートカットキーやコマンド一覧](https://magidropack.hatenablog.com/entry/2018/11/04/011715) #linux#terminal
