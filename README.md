@@ -1,3 +1,4 @@
+- [単一責任の原則（Single responsibility principle）について、もう一度考える](https://www.ogis-ri.co.jp/otc/hiroba/others/OOcolumn/single-responsibility-principle.html) #architecture
 - [Simple Pages パターン - lacolaco-engineering](https://scrapbox.io/lacolaco-engineering/Simple_Pages_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3) #angular#architecture
 - [劇薬の The New CSS Reset](https://kojika17.com/2021/07/css-for-strong-poison.html) #css
 - [Angular CDK を使用して全画面ローディングを表示する](https://noxi515.hateblo.jp/entry/2018/12/26/193952) #angular#angular-cdk#angular-material
