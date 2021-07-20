@@ -1,3 +1,4 @@
+- [リーダブルコード by DDD](https://speakerdeck.com/yoshikiiida/readable-code-by-ddd) #architecture#programming#ddd
 - [自己流の手順書フォーマットを公開してみた](https://dev.classmethod.jp/articles/non-97-operation-manual/) #document
 - [単一責任の原則（Single responsibility principle）について、もう一度考える](https://www.ogis-ri.co.jp/otc/hiroba/others/OOcolumn/single-responsibility-principle.html) #architecture
 - [Simple Pages パターン - lacolaco-engineering](https://scrapbox.io/lacolaco-engineering/Simple_Pages_%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3) #angular#architecture
