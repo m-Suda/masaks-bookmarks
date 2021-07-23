@@ -1,3 +1,4 @@
+- [Angular CDK Overlayで表示するComponentとデータを受け渡す](https://noxi515.hateblo.jp/entry/2020/04/26/205500) #angular#angular-cdk
 - [リーダブルコード by DDD](https://speakerdeck.com/yoshikiiida/readable-code-by-ddd) #architecture#programming#ddd
 - [自己流の手順書フォーマットを公開してみた](https://dev.classmethod.jp/articles/non-97-operation-manual/) #document
 - [単一責任の原則（Single responsibility principle）について、もう一度考える](https://www.ogis-ri.co.jp/otc/hiroba/others/OOcolumn/single-responsibility-principle.html) #architecture
