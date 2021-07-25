@@ -1,3 +1,4 @@
+- [自走するエンジニアが育つ組織の作り方](https://medium.com/pinnacles-techblog/self-drive-engineer-510b3c567bfd) #management#team-building
 - [Error Handling](https://www.joyent.com/node-js/production/design/errors) #nodejs
 - [Angular CDK OverlayでBackdropを使用する - noxi雑記](https://noxi515.hateblo.jp/entry/2020/04/26/184308) #angular#angular-cdk
 - [Angular CDK Overlayで表示するComponentとデータを受け渡す](https://noxi515.hateblo.jp/entry/2020/04/26/205500) #angular#angular-cdk
