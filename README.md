@@ -1,3 +1,4 @@
+- [超万能！Notionをまったく別のツールに大変身させるWebサービスを厳選してみた！](https://paiza.hatenablog.com/entry/2021/07/29/130000) #notion
 - [マッピングエクスペリエンス](https://www.oreilly.co.jp//books/9784873118000/) #book#o'reilly#uiux
 - [誰がどう見てもそうとしか受け取れない文書術（公開版）](https://speakerdeck.com/namura/shui-gadoujian-temosoutosikashou-kequ-renaiwen-shu-shu-gong-kai-ban) #business
 - [Bad な UI を改善する 「UI Stack」 って知ってます？](https://note.com/nowim/n/n185d63cfda5c) #uiux
