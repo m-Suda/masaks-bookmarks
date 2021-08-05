@@ -1,3 +1,4 @@
+- [Why Frontend Development Is So Hard?](https://betterprogramming.pub/why-frontend-development-is-so-hard-c055bce2fd3a) #frontend
 - [アジリティを支える品質特性](https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer) #quality
 - [VOICEVOX](https://voicevox.hiroshiba.jp/) #tool
 - [オブジェクト指向のその前に-凝集度と結合度](https://speakerdeck.com/sonatard/coheision-coupling) #oop
