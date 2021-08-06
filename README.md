@@ -1,3 +1,4 @@
+- [優れたテスト容易性を実現するためのポイント](https://www.praha-inc.com/lab/posts/testability) #test
 - [Why Frontend Development Is So Hard?](https://betterprogramming.pub/why-frontend-development-is-so-hard-c055bce2fd3a) #frontend
 - [アジリティを支える品質特性](https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer) #quality
 - [VOICEVOX](https://voicevox.hiroshiba.jp/) #tool
