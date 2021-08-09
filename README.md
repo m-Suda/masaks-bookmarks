@@ -1,3 +1,4 @@
+- [JSer.info 10周年: JavaScript情報の集め方、書き方、まとめ方](https://jser.info/2021/01/16/jser-10th/) #study#writing#publish
 - [私なりの技術書の読み方](https://blog.hanhans.net/2021/02/26/how-to-read-a-book/) #book
 - [優れたテスト容易性を実現するためのポイント](https://www.praha-inc.com/lab/posts/testability) #test
 - [Why Frontend Development Is So Hard?](https://betterprogramming.pub/why-frontend-development-is-so-hard-c055bce2fd3a) #frontend
