@@ -1,3 +1,4 @@
+- [「仕事のコード」を残す際のチェックリスト](https://note.com/udzura/n/n02f2ffc532e3) #work
 - [TypeScriptのTips集](https://zenn.dev/tak_iwamoto/articles/d367f989eb4a33) #typescript
 - [JSer.info 10周年: JavaScript情報の集め方、書き方、まとめ方](https://jser.info/2021/01/16/jser-10th/) #study#writing#publish
 - [私なりの技術書の読み方](https://blog.hanhans.net/2021/02/26/how-to-read-a-book/) #book
