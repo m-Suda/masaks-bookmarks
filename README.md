@@ -1,3 +1,4 @@
+- [ElectronでOS固有のファイルパスを得る app.getPath()の出力まとめ](https://qiita.com/progre/items/2718f4ad20eecf27d599) #electron
 - [Catalyst](https://github.github.io/catalyst/) #javascript#web-components#library
 - [Angular12 + ElectronのBootstrap package](https://github.com/maximegris/angular-electron) #angular#electron
 - [「仕事のコード」を残す際のチェックリスト](https://note.com/udzura/n/n02f2ffc532e3) #work
