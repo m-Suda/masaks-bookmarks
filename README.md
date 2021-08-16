@@ -1,3 +1,4 @@
+- [ソフトウェアドキュメント作法](https://blog.h13i32maru.jp/entry/2021/08/15/163619) #document#software
 - [ElectronでOS固有のファイルパスを得る app.getPath()の出力まとめ](https://qiita.com/progre/items/2718f4ad20eecf27d599) #electron
 - [Catalyst](https://github.github.io/catalyst/) #javascript#web-components#library
 - [Angular12 + ElectronのBootstrap package](https://github.com/maximegris/angular-electron) #angular#electron
