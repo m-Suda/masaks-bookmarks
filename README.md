@@ -1,3 +1,4 @@
+- [JSDocで型を定義してTypeScriptの恩恵を受ける](https://zenn.dev/azukiazusa/articles/c89d4bdc7dacf2) #typescript#javascript
 - [「顧客の声を聞かない」とはどういうことか](https://www.slideshare.net/storywriterjp/ss-249984164) #user
 - [真面目にOSSを公開する際にやってみたこと・意識したこと](https://zenn.dev/ryo_kawamata/articles/b6f679bfe11261) #oss
 - [図で理解するFlexbox](https://zenn.dev/umatoma/articles/e6c4051f4c882d) #css#flex-box
