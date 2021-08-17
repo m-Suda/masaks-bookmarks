@@ -1,3 +1,4 @@
+- [「顧客の声を聞かない」とはどういうことか](https://www.slideshare.net/storywriterjp/ss-249984164) #user
 - [真面目にOSSを公開する際にやってみたこと・意識したこと](https://zenn.dev/ryo_kawamata/articles/b6f679bfe11261) #oss
 - [図で理解するFlexbox](https://zenn.dev/umatoma/articles/e6c4051f4c882d) #css#flex-box
 - [ソフトウェアドキュメント作法](https://blog.h13i32maru.jp/entry/2021/08/15/163619) #document#software
