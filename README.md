@@ -1,3 +1,4 @@
+- [KeychronをMacOSで使ってるとF5/F6だけ効かなくなるの対処法](https://www.reddit.com/r/Keychron/comments/f1gey0/issues_with_f5f6_respecting_fn_key/) #keyboard#keychron
 - [JSDocで型を定義してTypeScriptの恩恵を受ける](https://zenn.dev/azukiazusa/articles/c89d4bdc7dacf2) #typescript#javascript
 - [「顧客の声を聞かない」とはどういうことか](https://www.slideshare.net/storywriterjp/ss-249984164) #user
 - [真面目にOSSを公開する際にやってみたこと・意識したこと](https://zenn.dev/ryo_kawamata/articles/b6f679bfe11261) #oss
