@@ -1,3 +1,4 @@
+- [`ng serve` したプロセスをkillする方法](https://dev.to/tanatip/how-to-stop-angular-ng-serve-on-mac-linux-347b) #angular
 - [HTML/CSSレイアウトについての歴史](https://joom.team/en/a-brief-history-of-html-css-layouting) #css#layout
 - [KeychronをMacOSで使ってるとF5/F6だけ効かなくなるの対処法](https://www.reddit.com/r/Keychron/comments/f1gey0/issues_with_f5f6_respecting_fn_key/) #keyboard#keychron
 - [JSDocで型を定義してTypeScriptの恩恵を受ける](https://zenn.dev/azukiazusa/articles/c89d4bdc7dacf2) #typescript#javascript
