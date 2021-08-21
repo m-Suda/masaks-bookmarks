@@ -1,3 +1,4 @@
+- [頭がいい人は「分かりやすい説明」をする時、何を考えているのか](https://blog.tinect.jp/?p=35489) #business
 - [全てのUIデザインに必要な５つの状態](https://note.com/taka44/n/n07e39c66df6a) #design
 - [`ng serve` したプロセスをkillする方法](https://dev.to/tanatip/how-to-stop-angular-ng-serve-on-mac-linux-347b) #angular
 - [HTML/CSSレイアウトについての歴史](https://joom.team/en/a-brief-history-of-html-css-layouting) #css#layout
