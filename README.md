@@ -1,3 +1,4 @@
+- [フロントエンドから取り組むデザインシステムの改善](https://techblog.yahoo.co.jp/entry/2021082530175149/) #frontend#design#uiux
 - [配列や連想配列から、その要素のunion型を生成する](https://qiita.com/momosetkn/items/0874049f8a2af31c26cd) #typescript
 - [頭がいい人は「分かりやすい説明」をする時、何を考えているのか](https://blog.tinect.jp/?p=35489) #business
 - [全てのUIデザインに必要な５つの状態](https://note.com/taka44/n/n07e39c66df6a) #design
