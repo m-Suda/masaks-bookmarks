@@ -1,3 +1,4 @@
+- [サバイバルTypeScript - TypeScript入門](https://book.yyts.org/) #typescript
 - [プライベートメソッドのテストは書かないもの？](https://t-wada.hatenablog.jp/entry/should-we-test-private-methods) #test
 - [フロントエンドから取り組むデザインシステムの改善](https://techblog.yahoo.co.jp/entry/2021082530175149/) #frontend#design#uiux
 - [配列や連想配列から、その要素のunion型を生成する](https://qiita.com/momosetkn/items/0874049f8a2af31c26cd) #typescript
