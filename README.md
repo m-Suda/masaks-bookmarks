@@ -1,3 +1,4 @@
+- [ビジネス・アーキテクチャとシステム・アーキテクチャ](https://izumisy.work/entry/2021/09/05/233521) #architecture#business#domain
 - [サバイバルTypeScript - TypeScript入門](https://book.yyts.org/) #typescript
 - [プライベートメソッドのテストは書かないもの？](https://t-wada.hatenablog.jp/entry/should-we-test-private-methods) #test
 - [フロントエンドから取り組むデザインシステムの改善](https://techblog.yahoo.co.jp/entry/2021082530175149/) #frontend#design#uiux
