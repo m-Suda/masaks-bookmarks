@@ -1,3 +1,4 @@
+- [レスポンシブ対応のレイアウトを実装する最新テクニック](https://coliss.com/articles/build-websites/operation/work/mobile-first-and-desktop-first.html) #css
 - [ビジネス・アーキテクチャとシステム・アーキテクチャ](https://izumisy.work/entry/2021/09/05/233521) #architecture#business#domain
 - [サバイバルTypeScript - TypeScript入門](https://book.yyts.org/) #typescript
 - [プライベートメソッドのテストは書かないもの？](https://t-wada.hatenablog.jp/entry/should-we-test-private-methods) #test
