@@ -1,3 +1,4 @@
+- [Why do people hate redesigns?](https://uxdesign.cc/why-do-people-hate-redesigns-64c2b009cc32) #uiux
 - [レスポンシブ対応のレイアウトを実装する最新テクニック](https://coliss.com/articles/build-websites/operation/work/mobile-first-and-desktop-first.html) #css
 - [ビジネス・アーキテクチャとシステム・アーキテクチャ](https://izumisy.work/entry/2021/09/05/233521) #architecture#business#domain
 - [サバイバルTypeScript - TypeScript入門](https://book.yyts.org/) #typescript
