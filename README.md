@@ -1,3 +1,4 @@
+- [緩やかに死んでいくシステム](https://speakerdeck.com/toricls/you-wont-be-in-the-team-forever)
 - [GitHub 英語例文集](https://zenn.dev/boarwell/articles/english-examples) #english
 - [Why do people hate redesigns?](https://uxdesign.cc/why-do-people-hate-redesigns-64c2b009cc32) #uiux
 - [レスポンシブ対応のレイアウトを実装する最新テクニック](https://coliss.com/articles/build-websites/operation/work/mobile-first-and-desktop-first.html) #css
