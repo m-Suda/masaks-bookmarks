@@ -1,3 +1,4 @@
+- [「これぐらいのことはできていて」は勝手な期待　観察・考察・選択のサイクルで相手の力を引き出す「誰も嫌な思いをしない変化」](https://logmi.jp/tech/articles/325154) #work#business
 - [緩やかに死んでいくシステム](https://speakerdeck.com/toricls/you-wont-be-in-the-team-forever)
 - [GitHub 英語例文集](https://zenn.dev/boarwell/articles/english-examples) #english
 - [Why do people hate redesigns?](https://uxdesign.cc/why-do-people-hate-redesigns-64c2b009cc32) #uiux
