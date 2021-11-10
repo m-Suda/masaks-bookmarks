@@ -1,3 +1,4 @@
+- [フロントエンドエンジニアのステップアップのための集合知 - HackMD](https://hackmd.io/1hwucZmcTAG5k4G9o5Szeg) #frontend
 - [Noを伝える技術](https://speakerdeck.com/aki_i/nowochuan-eruji-shu-number-pmconf2021) #business
 - [「これぐらいのことはできていて」は勝手な期待　観察・考察・選択のサイクルで相手の力を引き出す「誰も嫌な思いをしない変化」](https://logmi.jp/tech/articles/325154) #work#business
 - [緩やかに死んでいくシステム](https://speakerdeck.com/toricls/you-wont-be-in-the-team-forever)
